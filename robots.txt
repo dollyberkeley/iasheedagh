@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jeirohyohf.koeze.io/sitemap.xml
